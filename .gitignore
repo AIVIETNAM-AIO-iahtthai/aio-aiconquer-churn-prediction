@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bỏ qua thư mục chứa dữ liệu thô và dữ liệu đã xử lý
+data/
